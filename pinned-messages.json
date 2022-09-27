@@ -1,0 +1,15 @@
+{
+    "threads": {
+        "5472798356168345": {
+            "cmd": {
+                "sender": {
+                    "id": "100085642972736",
+                    "name": "Manto Bot"
+                },
+                "body": "📝 List of Commands\n\n⟩ Prefix: /\n\n/anime: Send A Pic of Anime.\n\n/cat: Send Photo Of Cat.\n\n/csim (word): Chat with simsimi.\n\n/cute: Send Photo Of Girl.\n\n/cute18: Send Photo Of Sexy Girl.\n\n/define <word>: Returns the definition of the word using Google Dictionary API\n\n/dictionary (Word): Show definition of words.\n\n/dog: Send Random Pic of Dog.\n\n/downloadTiktok <tiktok-video-url>: Downloads videos from the tiktok\n\n/findip : Show The IP.\n\n/github (username): Show Github Infomation.\n\n/help: Shows a list of available commands.\n\n/imageSearch <query>: Search for images in google\n\n/info: Shows information about MantoBot.\n\n/lyrics (song title): Send Lyrics of songs.\n\n/minionslanguage: Show Minions Languages.\n\n/ping: Show Ping.\n\n/play <song title>: Plays a song from youtube music and returns the lyrics of the song if there's any\n\n/rndcolor (color name): Set Color.\n\n/say <language> <word/phrase>: Sends an audio recording of the word/phrase\n\n/say languages-list: Lists all the supported text-to-speech languages\n\n/sk sk_key: Check The SKey.\n\n/spotify: Generate Spotify Account.\n\n/stalk <@mention>: View information of facebook users\n\n/translate <phrase> to <language>: Translates a phrase/word using Google Translate API\n\n/uid (mention): See The Facebook Id Of User.\n\n/wiki <query>: Send a search query to Wikipedia's API\n\n** Admin Commands **\n\n/admin <promote|demote|list> <@person [, @person, ..] | @all | @you>: Promote/Demote users as administrator of this chat bot\n\n/join: Allows MantoBot to respond to every commands in a conversation.\n\n/leave: Prevents MantoBot from responding to every commands in a conversation.\n\n/permission grant <all | command> <@all | @you | @person-name>: Grants permission to all or a specific command to all members or specific member of a conversation.\n\n/permission revoke <all | command> <@all | @you | @person-name>: Revokes permission to all or a specific command to all members or a specific member of a conversation.\n\n/pin <add|get|purge|remove|list> <name of pin>: Pins a message in a certain thread\n\n/setname: Change the nickname in your group or the person you tag.\n\n/settings <bot settings> <option>: Updates bot's settings from the current thread\n\n/settings list: Lists bot's settings from the current thread\n\n© Made with ❤️ by Danilo Manto",
+                "attachments": [],
+                "attachmentTypes": "None"
+            }
+        }
+    }
+}

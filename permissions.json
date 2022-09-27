@@ -1,0 +1,62 @@
+{
+    "bot-owner": "100085642972736",
+    "thread-admins": {
+        "5472798356168345": [
+            "100085642972736",
+            "100007515468996"
+        ]
+    },
+    "5310020869038459": {
+        "users": {
+            "100085642972736": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            }
+        }
+    },
+    "5472798356168345": {
+        "users": {
+            "100004475384819": {
+                "permissions": [
+                    "info",
+                    "spotify",
+                    "csim",
+                    "github",
+                    "ping",
+                    "dictionary",
+                    "rndcolor",
+                    "uid",
+                    "anime",
+                    "cat",
+                    "cute",
+                    "cute18",
+                    "sk",
+                    "minionslanguage",
+                    "findip",
+                    "dog",
+                    "lyrics",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "stalk",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            }
+        }
+    }
+}
